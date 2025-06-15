@@ -1,0 +1,8 @@
+.gauge-container {
+    text-align: center;
+    margin-top: 40px;
+  }
+#value {
+font-size: 1.5rem;
+margin-top: 10px;
+}

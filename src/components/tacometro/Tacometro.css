@@ -1,0 +1,21 @@
+/* AnalogFuelGauge.css */
+.gauge-container {
+  text-align: center;
+  margin: 2rem auto;
+}
+.gauge {
+  width: 200px;
+}
+.arc {
+  stroke: #ccc;
+  stroke-width: 10;
+  fill: none;
+}
+.needle {
+  stroke: red;
+  stroke-width: 2;
+}
+.value {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
